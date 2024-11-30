@@ -1,0 +1,46 @@
+2024-11-30 09:47:09,235 - INFO - MQTT Connected with result code 0
+2024-11-30 09:47:10,060 - INFO - HTTP to MQTT Gateway running on 0.0.0.0:8088
+2024-11-30 09:47:10,060 - INFO - MQTT Broker: localhost:1883
+2024-11-30 09:51:45,011 - INFO - Gateway stopped by user
+2024-11-30 09:51:45,894 - WARNING - MQTT Disconnected with code 0
+2024-11-30 09:51:48,085 - INFO - MQTT Connected with result code 0
+2024-11-30 09:51:48,903 - INFO - HTTP to MQTT Gateway running on 0.0.0.0:8088
+2024-11-30 09:51:48,903 - INFO - MQTT Broker: 192.168.1.1:1883
+2024-11-30 09:56:03,815 - INFO - Gateway stopped by user
+2024-11-30 09:56:04,262 - WARNING - MQTT Disconnected with code 0
+2024-11-30 09:56:05,895 - INFO - MQTT Connected with result code 0
+2024-11-30 09:56:06,712 - INFO - HTTP to MQTT Gateway running on 0.0.0.0:8088
+2024-11-30 09:56:06,712 - INFO - MQTT Broker: 192.168.1.1:1883
+2024-11-30 10:00:26,678 - INFO - Gateway stopped by user
+2024-11-30 10:00:27,074 - WARNING - MQTT Disconnected with code 0
+2024-11-30 10:00:28,037 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 0, "mqtt_reconnect_count": 0}
+2024-11-30 10:00:28,048 - INFO - MQTT Connected with result code 0
+2024-11-30 10:00:28,865 - INFO - HTTP to MQTT Gateway running on 0.0.0.0:8088
+2024-11-30 10:02:28,038 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 8, "mqtt_reconnect_count": 0}
+2024-11-30 10:04:28,039 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:06:28,040 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:08:28,041 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:10:28,042 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:12:28,043 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:14:28,044 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:16:28,045 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:18:28,046 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:20:28,047 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:22:28,048 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:24:28,048 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:26:28,049 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:28:28,050 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:30:28,051 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:32:28,051 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:34:28,052 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:36:28,053 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:38:28,054 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:40:28,054 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:42:28,055 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:44:28,056 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:46:28,057 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:48:28,058 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:50:28,059 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 9, "mqtt_reconnect_count": 0}
+2024-11-30 10:52:28,059 - INFO - [MQTT] Published health check to http2mqtt/health: {"http_to_mqtt_count": 13, "mqtt_reconnect_count": 0}
+2024-11-30 10:53:27,370 - INFO - Server stopped by user
+2024-11-30 10:53:28,108 - WARNING - MQTT Disconnected with code 0
