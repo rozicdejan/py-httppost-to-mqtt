@@ -15,11 +15,14 @@ MQTT broker (e.g., Mosquitto)
 
 # Setup
 ## Step 1: Clone the Repository
+```yaml
 git clone https://github.com/rozicdejan/py-httppost-to-mqtt
 cd py-httppost-to-mqtt
+```
 ## Step 2: Install Dependencies
+```yaml
 pip install -r requirements.txt
-
+```
 ## Step 3: Create a .env File
 Create a .env file in the project directory and populate it with the following variables:
 ```yaml
