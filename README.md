@@ -16,7 +16,7 @@ MQTT broker (e.g., Mosquitto)
 # Setup
 ## Step 1: Clone the Repository
 ```yaml
-git clone https://github.com/rozicdejan/py-httppost-to-mqtt
+[git clone https://github.com/rozicdejan/py-httppost-to-mqtt](https://github.com/rozicdejan/py-httppost-to-mqtt.git)
 cd py-httppost-to-mqtt
 ```
 ## Step 2: Install Dependencies
